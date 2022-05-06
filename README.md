@@ -13,7 +13,8 @@
 * DevOps
 * Azure Cloud, AWS
 * Automation
-* Leadership
+* Linux
+* BlockChain
 
 ### ✨ Stack ✨
 * Language: 
