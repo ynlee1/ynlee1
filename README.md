@@ -6,7 +6,7 @@
 ### ✨ DevOps Engineer ✨
 * DevOps Engineer at Seegene Inc
 
-### ✨ Job description ✨
+### ✨ Work Experience ✨
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoonyeong-lee-888727209/)
 
 ### ✨ Interest ✨
