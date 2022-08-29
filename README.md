@@ -11,7 +11,7 @@
 </div>
 
 ### ✨ DevOps Engineer ✨
-* DevOps Engineer at Seegene Inc
+* Cloud Engineer at S.Pin Technology
 
 ### ✨ Work Experience ✨
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoonyeong-lee-888727209/)
